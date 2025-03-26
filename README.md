@@ -1,1 +1,1 @@
-Repositório destinado a subir meus códigos de teste de sistema..
+Repositório destinado a subir meus códigos de teste de sistemas.
